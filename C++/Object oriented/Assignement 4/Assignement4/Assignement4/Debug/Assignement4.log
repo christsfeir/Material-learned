@@ -1,0 +1,105 @@
+﻿  Assignement4.cpp
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Person.h(25,1): error C2059: syntax error: '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Person.h(25,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\InPatient.h(26,82): error C2512: 'Date': no appropriate default constructor available
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Date.h(5,7): message : see declaration of 'Date'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\InPatient.h(26,82): error C2512: 'Doctor': no appropriate default constructor available
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Doctor.h(4,7): message : see declaration of 'Doctor'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(22,72): error C2512: 'Date': no appropriate default constructor available
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Date.h(5,7): message : see declaration of 'Date'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(22,72): error C2512: 'Doctor': no appropriate default constructor available
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Doctor.h(4,7): message : see declaration of 'Doctor'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(24,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(38,1): error C2059: syntax error: '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(38,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Assignement4.cpp(14,16): error C2512: 'OutPatient': no appropriate default constructor available
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(7,7): message : see declaration of 'OutPatient'
+  Bed.cpp
+  Date.cpp
+  Doctor.cpp
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Person.h(15,13): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Person.h(25,1): error C2059: syntax error: '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Person.h(25,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Doctor.h(15,13): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Doctor.h(16,13): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Doctor.h(17,13): error C2065: 'cout': undeclared identifier
+  Hospital.cpp
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Person.h(15,13): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Person.h(25,1): error C2059: syntax error: '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Person.h(25,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Doctor.h(15,13): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Doctor.h(16,13): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Doctor.h(17,13): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(15,18): error C2039: 'cout': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\string(24): message : see declaration of 'std'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(15,1): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(16,18): error C2039: 'cout': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\string(24): message : see declaration of 'std'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(16,1): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(17,18): error C2039: 'cout': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\string(24): message : see declaration of 'std'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(17,1): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(18,18): error C2039: 'cout': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\string(24): message : see declaration of 'std'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(18,1): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(19,18): error C2039: 'cout': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\string(24): message : see declaration of 'std'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(19,1): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(22,72): error C2512: 'Date': no appropriate default constructor available
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Date.h(5,7): message : see declaration of 'Date'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(22,72): error C2512: 'Doctor': no appropriate default constructor available
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Doctor.h(4,7): message : see declaration of 'Doctor'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(24,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(38,1): error C2059: syntax error: '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(38,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\InPatient.h(26,82): error C2512: 'Date': no appropriate default constructor available
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Date.h(5,7): message : see declaration of 'Date'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\InPatient.h(26,82): error C2512: 'Doctor': no appropriate default constructor available
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Doctor.h(4,7): message : see declaration of 'Doctor'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Hospital.h(10,30): error C2864: 'Hospital::capacity': a static data member with an in-class initializer must have non-volatile const integral type or be specified as 'inline'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Hospital.h(10,30): message : type is 'int'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Hospital.h(25,1): error C2059: syntax error: '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Hospital.h(25,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Hospital.h(25,1): error C2238: unexpected token(s) preceding ';'
+  InPatient.cpp
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Person.h(25,1): error C2059: syntax error: '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Person.h(25,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\InPatient.h(26,82): error C2512: 'Date': no appropriate default constructor available
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Date.h(5,7): message : see declaration of 'Date'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\InPatient.h(26,82): error C2512: 'Doctor': no appropriate default constructor available
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Doctor.h(4,7): message : see declaration of 'Doctor'
+  OutPatient.cpp
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Person.h(15,13): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Person.h(25,1): error C2059: syntax error: '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Person.h(25,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Doctor.h(15,13): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Doctor.h(16,13): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Doctor.h(17,13): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(15,18): error C2039: 'cout': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\string(24): message : see declaration of 'std'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(15,1): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(16,18): error C2039: 'cout': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\string(24): message : see declaration of 'std'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(16,1): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(17,18): error C2039: 'cout': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\string(24): message : see declaration of 'std'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(17,1): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(18,18): error C2039: 'cout': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\string(24): message : see declaration of 'std'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(18,1): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(19,18): error C2039: 'cout': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\string(24): message : see declaration of 'std'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(19,1): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(22,72): error C2512: 'Date': no appropriate default constructor available
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Date.h(5,7): message : see declaration of 'Date'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(22,72): error C2512: 'Doctor': no appropriate default constructor available
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Doctor.h(4,7): message : see declaration of 'Doctor'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(24,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(38,1): error C2059: syntax error: '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\OutPatient.h(38,1): error C2143: syntax error: missing ';' before '}'
+  Person.cpp
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Person.h(15,13): error C2065: 'cout': undeclared identifier
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Person.h(25,1): error C2059: syntax error: '}'
+C:\Users\Chris\OneDrive\Desktop\Assignement4\Assignement4\Assignement4\Person.h(25,1): error C2143: syntax error: missing ';' before '}'
+  Time.cpp
+  Generating Code...

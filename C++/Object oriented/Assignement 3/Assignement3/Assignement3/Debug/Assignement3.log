@@ -1,0 +1,5 @@
+﻿  Reference.cpp
+  ReferenceManager.cpp
+  Generating Code...
+C:\Users\Chris\OneDrive\Desktop\Assignement 3 244\Assignement3\Assignement3\ReferenceManager.cpp(20): warning C4715: 'ReferenceManager::add': not all control paths return a value
+  Assignement3.vcxproj -> C:\Users\Chris\OneDrive\Desktop\Assignement 3 244\Assignement3\Debug\Assignement3.exe

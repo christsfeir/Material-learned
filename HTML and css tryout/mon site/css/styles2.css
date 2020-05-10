@@ -1,0 +1,152 @@
+        html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            background: #FFFFFF !important;
+        }
+
+        div.Case1{
+            background-color: #878792;
+            display: inline-flex;
+            height: 350px;
+            width: 250px;
+            text-align:center;
+            border:1px solid black;
+            align-items: center;
+            justify-content: center;
+            border-radius: 10px;
+
+        }
+        div.Case2{
+            background-color: #878792;
+            display: inline-flex;
+            height: 350px;
+            width: 250px;
+            margin-left: 10px;
+            text-align:center;
+            border:1px solid black;
+            align-items: center;
+            justify-content: center;
+            border-radius: 10px;
+        }
+        
+        div.Case3{
+            background-color: #878792;
+            display: inline-flex;
+            height: 350px;
+            width: 250px;
+            margin-left: 10px;
+            text-align:center;
+            border:1px solid black;
+            align-items: center;
+            justify-content: center;
+            border-radius: 10px;
+        }
+        div.Case4{
+            background-color: #878792;
+            display: inline-flex;
+            height: 175px;
+            width: 383px;
+            text-align:center;
+            border:1px solid black;
+            align-items: center;
+            justify-content: center;
+            border-radius: 10px;
+            
+        }
+        div.Case5{
+            background-color: #878792;
+            display: inline-flex;
+            height: 175px;
+            width: 383px;
+            margin-left: 10px;
+            text-align:center;
+            border:1px solid black;
+            align-items: center;
+            justify-content: center;
+            border-radius: 10px;
+        }
+        div.Ligne1{
+
+            width: 800px;
+            height: 360px 
+        }
+        div.Ligne2{
+
+            margin-top:10px; 
+            width: 800px;
+            height: 180px; 
+        }
+       
+        .logo{
+            height: 40%;
+            margin-top: 20px;
+            text-align: center;
+            color: #fff;
+            background: #18bc9c;
+            width:100%;
+           
+        }
+        .navbar-nav{
+            margin-left: 88%;
+        } 
+        .button {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 15px 25px;
+            text-align: center;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .button:hover {
+            background-color: green;
+        }
+        input.MyButton1:hover {
+            color: #ffff00;
+            background: #000;
+            border: 1px solid #fff;
+        }
+        input.MyButton2:hover {
+            color: #ffff00;
+            background: #000;
+            border: 1px solid #fff;
+        }
+        input.MyButton1 {
+            width: 250px;
+            height: 350px;
+            padding: 20px;
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 150%;
+            background: #3366cc;
+            color: #fff;
+            border: 1px solid #3366cc;
+            border-radius: 10px;
+        }
+        input.MyButton2 {
+            width: 383px;
+            height: 175px;
+            padding: 20px;
+            cursor: pointer;
+            font-weight: bold;
+            font-size: 150%;
+            background: #3366cc;
+            color: #fff;
+            border: 1px solid #3366cc;
+            border-radius: 10px;
+        }
+        
+h1.haut{
+    line-height: 300px;
+    margin-left: 50px;
+}
+ #Contenu {
+
+  position: absolute;
+  left: 30%;
+  top: 20%;
+
+  
+}

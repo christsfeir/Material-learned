@@ -1,0 +1,39 @@
+
+.fixed_header{
+    width: 800px;
+    table-layout: fixed;
+    border-collapse: collapse;
+    margin-left: 10px;
+}
+
+.fixed_header tbody{
+  display:block;
+  width: 100%;
+  overflow: auto;
+  height: 300px;
+}
+
+.fixed_header thead tr {
+   display: block;
+}
+
+.fixed_header thead {
+  background: black;
+  color:#fff;
+}
+
+.fixed_header th, .fixed_header td {
+  padding: 15px;
+  text-align: center;
+  width: 100px;
+  border: 1px solid black;
+}
+tr:nth-child(even){background-color: #f2f2f2}
+
+.tableau{
+  margin: 150px 150px 150px 150px;
+}
+.fixed_header{
+  margin:auto;
+
+}
