@@ -1,0 +1,25 @@
+ABOUT THIS PROJECT:
+This project was made in summer 2018, it is my own twist on the board game "Arboretum". With the help from my 
+Ex-professor who guided me through small bugs i managed to complete this game in a single day.
+
+WHAT THIS PROJECT TAUGHT ME:
+
+This was my first game made using classes and arrays at the same time, it help me visualise and conceptualize 3d array 
+and it also introduced "lighting" type of physics, if there is an object it does not pass.
+This was also the first game that had two players competing for the win with rounds and not limit to rounds 
+unless one of them gives up.
+
+This game also taught me, thanks to my professor who helped debug some parts, that a code can always be optimized no 
+matter how hard the concept it. 
+
+Multiple dimension arrays was also a subject tackled in this project.
+
+Whats the future of this porject:
+
+As i am still a student in computer engineering, this game will hopefully be made in a graphical enviroment using python
+in a responsive and optimized qay
+
+Authors:
+
+Christian Sfeir (myself)
+Mathieu Grenon (the teacher who only helped me debug)
