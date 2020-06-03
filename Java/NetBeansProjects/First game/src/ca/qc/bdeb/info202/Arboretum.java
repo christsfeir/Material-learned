@@ -1045,17 +1045,3 @@ public class Arboretum {
     }
 
 }
-
-//                                                                 \\
-//                                          //////                  \\
-//                                          //  //                   \\
-//                                          //////                    \\
-//                                                                     \\
-//                                                                      ))
-//                                                                      ))                 //EH OUI, C'EST MOI QUI EST HEUREUX DE NE PLUS  À AVOIR A REFAIRE CE TP
-//                                                                     //
-//                                                                    //
-//                                          //////                   //
-//                                          //  //                  //
-//                                          //////                 //
-//                                                                //
