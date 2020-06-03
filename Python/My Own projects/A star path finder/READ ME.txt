@@ -1,0 +1,11 @@
+Requirements:
+Python 3 installed on your computer.
+pygame installation is required to run this code. 
+(to install pygame open your cmd (windows only) and write the command "pip install pygame" works onky after installing python 3)
+Idle, or any python code editor.
+
+
+How it works:
+Input the cartisian coordonates into the pop-up windown, click enter when done. Then you input wall wherever you want, when ready press the spacebar.
+Depending on if you decided to show steps or not the program will show you the fastest way using the A* search algorithm.
+
