@@ -1,0 +1,10 @@
+Requirements:
+Python 3 installed on your computer.
+pygame installation is required to run this code. 
+(to install pygame open your cmd (windows only) and write the command "pip install pygame" works onky after installing python 3)
+Idle, or any python code editor.
+
+
+How it works:
+When you input a correct number the square will turn green, otherwise it will turn red. If you want to auto solve the program, press the spacebar.
+

@@ -1,0 +1,9 @@
+Requirements:
+Python 3 installed on your computer.
+pygame installation is required to run this code. 
+(to install pygame open your cmd (windows only) and write the command "pip install pygame" works onky after installing python 3)
+Idle, or any python code editor.
+
+
+How it works:
+Snake the game, change direction with the arrow keys to eat the random colored item.
