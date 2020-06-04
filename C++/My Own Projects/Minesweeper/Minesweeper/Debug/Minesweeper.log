@@ -1,0 +1,5 @@
+﻿  Minesweeper.cpp
+C:\Users\Chris\Desktop\C++\My Own Projects\Minesweeper\Minesweeper\Minesweeper.cpp(71,9): warning C4101: 'i': unreferenced local variable
+C:\Users\Chris\Desktop\C++\My Own Projects\Minesweeper\Minesweeper\Minesweeper.cpp(172,12): warning C4101: 'j': unreferenced local variable
+C:\Users\Chris\Desktop\C++\My Own Projects\Minesweeper\Minesweeper\Minesweeper.cpp(264,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Minesweeper.vcxproj -> C:\Users\Chris\Desktop\C++\My Own Projects\Minesweeper\Debug\Minesweeper.exe

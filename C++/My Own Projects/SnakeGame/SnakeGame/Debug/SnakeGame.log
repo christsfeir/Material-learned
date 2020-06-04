@@ -1,0 +1,5 @@
+﻿  SnakeGame.cpp
+C:\Users\Chris\Desktop\C++\My Own Projects\SnakeGame\SnakeGame\SnakeGame.cpp(102,1): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\Chris\Desktop\C++\My Own Projects\SnakeGame\SnakeGame\SnakeGame.cpp(99,34): warning C4309: 'initializing': truncation of constant value
+  LINK : C:\Users\Chris\Desktop\C++\My Own Projects\SnakeGame\Debug\SnakeGame.exe not found or not built by the last incremental link; performing full link
+  SnakeGame.vcxproj -> C:\Users\Chris\Desktop\C++\My Own Projects\SnakeGame\Debug\SnakeGame.exe
